@@ -1,4 +1,4 @@
-### [Tutorials on my Medium blog are available here.](https://medium.com/@thnhnguyn_58308/semantic-router-for-multiple-documents-77690224cb81)
+### [Tutorial on my Medium blog is available here.](https://medium.com/@thnhnguyn_58308/semantic-router-for-multiple-documents-77690224cb81)
 
 
 ## Introduction
